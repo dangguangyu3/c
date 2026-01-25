@@ -1,0 +1,3 @@
+C:/Users/dangguangyu/Desktop/c/22-array/cmake-build-debug/CMakeFiles/22_array.dir
+C:/Users/dangguangyu/Desktop/c/22-array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dangguangyu/Desktop/c/22-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
