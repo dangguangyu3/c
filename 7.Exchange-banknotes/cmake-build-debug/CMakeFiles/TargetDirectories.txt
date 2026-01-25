@@ -1,0 +1,3 @@
+C:/Users/34234/Desktop/c/7.Exchange-banknotes/cmake-build-debug/CMakeFiles/7_Exchange_banknotes.dir
+C:/Users/34234/Desktop/c/7.Exchange-banknotes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34234/Desktop/c/7.Exchange-banknotes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

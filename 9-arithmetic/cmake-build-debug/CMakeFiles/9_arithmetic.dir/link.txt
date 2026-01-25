@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\9_arithmetic.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\9_arithmetic.dir/objects.a @CMakeFiles\9_arithmetic.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\9_arithmetic.dir/objects.a -Wl,--no-whole-archive -o 9_arithmetic.exe -Wl,--out-implib,lib9_arithmetic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\9_arithmetic.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/34234/Desktop/c/4.Mixed-input/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34234/Desktop/c/4.Mixed-input/cmake-build-debug/CMakeFiles/4_Mixed_input.dir
+C:/Users/34234/Desktop/c/4.Mixed-input/cmake-build-debug/CMakeFiles/rebuild_cache.dir

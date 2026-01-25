@@ -1,0 +1,3 @@
+C:/Users/34234/Desktop/c/15-if/cmake-build-debug/CMakeFiles/15_if.dir
+C:/Users/34234/Desktop/c/15-if/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34234/Desktop/c/15-if/cmake-build-debug/CMakeFiles/rebuild_cache.dir

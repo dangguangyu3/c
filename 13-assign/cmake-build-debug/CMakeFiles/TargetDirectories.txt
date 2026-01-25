@@ -1,0 +1,3 @@
+C:/Users/34234/Desktop/c/13-assign/cmake-build-debug/CMakeFiles/13_assign.dir
+C:/Users/34234/Desktop/c/13-assign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/34234/Desktop/c/13-assign/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\20_two_level_loop.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\20_two_level_loop.dir/objects.a @CMakeFiles\20_two_level_loop.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\20_two_level_loop.dir/objects.a -Wl,--no-whole-archive -o 20_two_level_loop.exe -Wl,--out-implib,lib20_two_level_loop.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\20_two_level_loop.dir\linklibs.rsp
