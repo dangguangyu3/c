@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\24_transmit.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\24_transmit.dir/objects.a @CMakeFiles\24_transmit.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\24_transmit.dir/objects.a -Wl,--no-whole-archive -o 24_transmit.exe -Wl,--out-implib,lib24_transmit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\24_transmit.dir\linklibs.rsp
